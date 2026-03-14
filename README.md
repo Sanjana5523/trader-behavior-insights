@@ -5,6 +5,7 @@ How trader profitability changes with market sentiment
 Whether traders perform better in fearful markets or greedy markets
 Behavioral patterns in trading activity
 📂 Project Structure
+```
 trader-behavior-insights
 │
 ├── data
@@ -16,6 +17,7 @@ trader-behavior-insights
 ├── trader_sentiment_analysis.csv
 │
 └── README.md
+```
 Datasets Used
 1️.Trader Historical Data
 Contains detailed information about individual trades executed by crypto traders.
